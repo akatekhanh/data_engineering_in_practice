@@ -1,4 +1,2 @@
 # data_engineering_in_practice
-data_engineering_in_practice
-
-# Author
+This repository is used to note down my Data Engineering Note
