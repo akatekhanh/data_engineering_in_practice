@@ -26,6 +26,11 @@ set nocompatible
 filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 ```
+3. Vim Color schema
+```text
+Plugin 'flazz/vim-colorschemes'
+```
+> We need to apply the color for this theme
 ## Vim orginal shortcuts
 ## Window
 - `split window vertically:` :vsp -> vim split 
