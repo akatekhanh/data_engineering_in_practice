@@ -31,6 +31,10 @@ set rtp+=~/.vim/bundle/Vundle.vim
 Plugin 'flazz/vim-colorschemes'
 ```
 > We need to apply the color for this theme
+4. Color Dev icon scheme
+```text
+Plugin 'bryanmylee/vim-colorscheme-icons'
+```
 ## Vim orginal shortcuts
 ## Window
 - `split window vertically:` :vsp -> vim split 
