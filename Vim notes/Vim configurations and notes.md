@@ -18,5 +18,4 @@ set rtp+=~/.vim/bundle/Vundle.vim
 ## Navigation
 
 ## Plugin session
-- NERD Tree: Show the tree of folders
-- 
+### 1. NERD Tree: Show the tree of folders 
