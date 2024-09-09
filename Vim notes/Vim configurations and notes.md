@@ -1,3 +1,6 @@
+## Resources to learn and configure Vim
+- https://learnvim.irian.to: Learn and Configurate vim 
+```
 ## Vim map key meaning
 `remap` is an **option** that makes mappings work recursively. By default, it is on and I'd recommend you leave it that way. The rest are **mapping commands**, described below:
 
@@ -35,6 +38,13 @@ Plugin 'flazz/vim-colorschemes'
 ```text
 Plugin 'bryanmylee/vim-colorscheme-icons'
 ```
+5. FzF: Plugin for find file fuzzy
+```text
+// Install with homebrew
+brew install fzf
+brew install ripgrep
+```
+
 ## Vim orginal shortcuts
 ## Window
 - `split window vertically:` :vsp -> vim split 
