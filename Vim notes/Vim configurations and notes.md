@@ -44,7 +44,16 @@ Plugin 'bryanmylee/vim-colorscheme-icons'
 brew install fzf
 brew install ripgrep
 ```
-
+**Plugin in Vimrc file**
+```text
+Plugin 'junegunn/fzf.vim'
+Plugin 'junegunn/fzf', { 'do': { -> fzf#install() } }
+```
+**Configure in .vimrc file**
+```text
+nnoremap <silent> <C-f> :Files<CR>
+nnoremap <silent> <Leader>f :Rg<CR>
+```
 ## Vim orginal shortcuts
 ## Window
 - `split window vertically:` :vsp -> vim split 
