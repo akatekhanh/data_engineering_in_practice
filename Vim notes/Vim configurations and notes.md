@@ -1,7 +1,7 @@
 ## Resources to learn and configure Vim
-- https://learnvim.irian.to: Learn and Configurate vim 
-```
+- https://learnvim.irian.to: Learn and Configure vim 
 ## Vim map key meaning
+```
 `remap` is an **option** that makes mappings work recursively. By default, it is on and I'd recommend you leave it that way. The rest are **mapping commands**, described below:
 
 `:map` and `:noremap` are **recursive** and **non-recursive** versions of the various mapping commands. For example, if we run:
