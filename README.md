@@ -3,3 +3,6 @@
 
 # Vim notes
 - My vim notes and my setup configuration
+# Ton blockchain notes
+
+
