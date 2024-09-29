@@ -62,5 +62,11 @@ nnoremap <silent> <Leader>f :Rg<CR>
 - To move between the window, using: `crl + w + h/j/k/l`
 ## Navigation
 
+## Vim direction
+> `Delete inside block`
+- `di(`: Delete inside parentheses
+- `di{`: Delete inside curly braces
+- `di"`: Delete inside double quotes
+- `di'`: Delete inside single quotes
 ## Plugin session
 ### 1. NERD Tree: Show the tree of folders 
